@@ -17,9 +17,9 @@ For a complete list, use library(help="muUtil").
 \tabular{ll}{
 Package: \tab muUtil\cr
 Type: \tab Package\cr
-Version: \tab 1.3\cr
+Version: \tab 1.3.1\cr
 Date: \tab 2007-11-22\cr
-License: \tab GPL version 2 or newer
+License: \tab GPL (>= 2)
 }
 
 }
