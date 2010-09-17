@@ -17,8 +17,8 @@ For a complete list, use library(help="muUtil").
 \tabular{ll}{
 Package: \tab muUtil\cr
 Type: \tab Package\cr
-Version: \tab 1.5.0\cr
-Date: \tab 2008-02-07\cr
+Version: \tab 1.6.0\cr
+Date: \tab 2010-09-17\cr
 License: \tab GPL (>= 2)
 }
 
@@ -30,10 +30,6 @@ License: \tab GPL (>= 2)
 Maintainer: Tingting Song \email{ttsong@gmail.com}
 }
 
-\seealso{ 
-  \code{\link[muStat:muStat-package]{muStat}}, 
-  \code{\link[muS2RC:muS2RC-package]{muS2RC}}
-}
 \examples{
 x <- 5
 NoOp(x)
